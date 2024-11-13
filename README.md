@@ -10,7 +10,7 @@ Camper Cafe is a mock cafe website that includes the following features:
 - Different font styling for headings
 - Responsive design to make it visually appealing on different devices
   
-## Tech Stack
+## Tech Stack.
 HTML for the content structure
 CSS for layout and styling
 
